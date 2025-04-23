@@ -7,7 +7,7 @@ A simple login form built with **HTML**, **CSS**, and **JavaScript** that includ
 ## 🚀 How to Use
 
 1. **Download or Clone the Repo**
-git clone https://github.com/yourusername/password-eye-toggle.git
+git clone https://github.com/kavin6063/password-eye-toggle.git
 
 2. **Open the Project**
 - Find the `index.html` file.
