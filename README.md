@@ -33,10 +33,6 @@ git clone https://github.com/kavin6063/password-eye-toggle.git
 - Enter a password.
 - Click the 👁️ icon to toggle password visibility.
 
----
-
-## 📁 File Structure
-
 
 ---
 
