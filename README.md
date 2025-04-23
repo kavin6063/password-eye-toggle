@@ -23,6 +23,21 @@ git clone https://github.com/kavin6063/password-eye-toggle.git
 
 ## 📁 File Structure
 
+2. **Open the Project**
+- Find the `index.html` file.
+
+3. **Run the Project**
+- Double-click `index.html` to open it in your browser.
+
+4. **Try the Eye Toggle**
+- Enter a password.
+- Click the 👁️ icon to toggle password visibility.
+
+---
+
+## 📁 File Structure
+
+
 ---
 
 ## 🧠 How It Works
